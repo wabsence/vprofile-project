@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 #
 - JDK 11 
@@ -23,3 +24,7 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+=======
+# vprofile-project
+vprofile-project
+>>>>>>> a993df51c9d84ca1051878487368779d4d4959c8
